@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Bonjour et bon courage dans votre examen en DevOps");
         System.out.println("commit du deuxieme branche");
 
-        System.out.println("commit du deuxieme branche pour faire un conflit");
+        System.out.println("Main change");
 
     }
 }
